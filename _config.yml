@@ -19,7 +19,7 @@ title: Trevohack # the main title
 tagline: A student, friend, gamer, and hacker! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Trev is a college student, part-time hacker, and a CTF player. Currently, he has a certified eJPT, PNPT, and OSCP. 
+  "Trev is a college student, part-time hacker, and a CTF player. Currently, he has a certified eJPT, PNPT, and OSCP :)"
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
