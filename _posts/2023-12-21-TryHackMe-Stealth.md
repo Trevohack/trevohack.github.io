@@ -1,7 +1,7 @@
 ---
 title: Stealth
 author: trevohack
-date: 2023-21-12 11:33:00 +0800 
+date: 2023-19-12 11:33:00 +0800 
 categories: [TryHackMe]
 tags: [hacking, windows, AV-Evasion, ctf]
 pin: true 
