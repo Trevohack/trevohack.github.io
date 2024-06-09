@@ -1,4 +1,3 @@
-
 ---
 title: TryHackMe KoTH
 author: trevohack
@@ -7,10 +6,8 @@ categories: [TryHackMe]
 tags: [hacking, koth, persistence, c2, rootkits, userland-rootkits, trolling, linux, process-hiding, king]
 pin: true
 math: true
-mermaid: true 
+mermaid: true
 ---
-
-<h1 align="center">TryHackMe King Of The Hill </h1>
 
 
 <div align="center">
