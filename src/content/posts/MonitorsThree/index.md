@@ -1,6 +1,6 @@
 ---
 title: MonitorsThree 
-published: 2024-04-01
+published: 2024-09-01
 description: "An in-detail writeup on the linux box: MonitorsThree. From boot to root!"
 image: "./MonitorsThree.png"
 tags: ["htb", "box", "medium", "linux", "reverse-shells", "privilege-escalation"]
