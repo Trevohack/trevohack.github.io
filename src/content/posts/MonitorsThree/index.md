@@ -1,10 +1,10 @@
 ---
 title: MonitorsThree 
 published: 2024-04-01
-description: "How to use this blog template."
+description: "An in-detail writeup on the linux box: MonitorsThree. From boot to root!"
 image: "./MonitorsThree.png"
 tags: ["htb", "box", "medium", "linux", "reverse-shells", "privilege-escalation"]
-category: Guides
+category: HackTheBox
 draft: false
 ---
 
