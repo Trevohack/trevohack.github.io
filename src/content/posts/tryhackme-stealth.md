@@ -2,8 +2,8 @@
 title: Stealth 
 published: 2023-12-19
 description: "An in-detail writeup on the winodws box: Stealth from THM"
-tags: ["htb", "box", "medium", "windows", "reverse-shells", "privilege-escalation", "av-evasion", "SeImpersonatePrivilege"]
-category: HackTheBox
+tags: ["thm", "box", "medium", "windows", "reverse-shells", "privilege-escalation", "av-evasion", "SeImpersonatePrivilege"]
+category: TryHackMe 
 draft: false
 ---
 
