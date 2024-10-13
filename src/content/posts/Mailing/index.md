@@ -3,7 +3,7 @@ title: Mailing
 published: 2024-09-01
 description: "An in-detail writeup on the windows box: Mailing. From boot to root!"
 image: "./Mailing.png"
-tags: ["htb", "box", "medium", "windows", "reverse-shells", "privilege-escalation"]
+tags: ["htb", "box", "easy", "windows", "reverse-shells", "privilege-escalation", "LFI", "CVE-2024-21413"]
 category: HackTheBox
 draft: false
 --- 
