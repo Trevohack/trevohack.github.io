@@ -1,7 +1,7 @@
 ---
 title: Mailing
 published: 2024-09-01
-description: "An in-detail writeup on the linux box: Mailing. From boot to root!"
+description: "An in-detail writeup on the windows box: Mailing. From boot to root!"
 image: "./Mailing.png"
 tags: ["htb", "box", "medium", "windows", "reverse-shells", "privilege-escalation"]
 category: HackTheBox
